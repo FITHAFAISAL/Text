@@ -1,1 +1,8 @@
-# Text
+> "Do not look for the light at the end of the tunnel; be the light that illuminates it."
+> 
+Namukku life-il oru prathisandhi varumbol namma ellarum parayum, "Wait cheyyu, tunnel-nte end-il oru velicham kaanum." But athinte artham, aa tunnel theerunna vare namma iruttil thanne thappithadanj nadakkanam ennano? Aarokkeyo vannu namme rakshikkum enno, situation thaniye maarum enno karuthi kaathu nilkkunnathil oru arthavum illa.
+Oru simple example parayam. Oru engineering student, nale avante life-changing aayulla main university exam aanu. Night padichondirikke sudden aayi current povunnu. Full dark! Ayaalkku venamenkil KSEB-ye kuttam parayam, fate-ine theri vilikkam, "Current illallo, nale exam thottu" ennu paranju deshyappettu kidannu urangam. Result enthavum? Ayaal exam fail aavum, career thanne affect aavum.
+Pakshe athinu pakaram, "Current varumbol padikkam" ennu karuthi iruttil irikkathe, ayaal chuttum thappi oru candle-o mobile flashlight-o eduthu vachu padikkan thudangiyaalo? Maybe aa cheriya velichathil padicha 2 questions aayirikkum nale avane pass aakkunnathum, avante career thanne maatti marikkunnathum!
+Nammal ellavarum pala situations-ilum cheyyunnathu ithaanu. Current poyathinu system-athine blame cheythu kidannu urangukayano, atho kaiyyilulla cheriya velicham vachu munnottu pokano ennullathaanu nammude choice. Instead of waiting for an external exit light, namukku thanne aa iruttine maatan oru torch aayi maanikkoode? Athu namukkum vazhi kaanikkum, koode ullavarkkum confidence kodukkum.
+ * Thinking Point: "Nammal enthanu ippo cheyyunnathu? Prashnagal varumbol excuses paranju iruttil thanne kidannu urangukayano, atho kayyil kittiya cheriya candle vachu vazhi kandupidikkan sramikkunnundo?"
+ 
